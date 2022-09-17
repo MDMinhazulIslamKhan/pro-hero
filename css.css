@@ -1,0 +1,8 @@
+.first {
+    color: red;
+    border-left: 5px solid rgb(182, 63, 140);
+}
+
+#n {
+    display: block;
+}
