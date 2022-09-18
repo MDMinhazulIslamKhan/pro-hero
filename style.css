@@ -1,0 +1,35 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+#org-color {
+    color: rgb(240, 135, 5);
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    margin: 30px 50px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.hireMe {
+    background-image: linear-gradient(orange, tomato);
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+
+.top {
+    background-image: url(img/top-banner.png);
+    background-repeat: no-repeat;
+}
